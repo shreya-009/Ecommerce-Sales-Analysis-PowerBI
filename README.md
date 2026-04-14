@@ -68,7 +68,6 @@ An end-to-end data analysis project on a simulated e-commerce dataset consisting
 
 ## Tools Used
 - **Power BI** — Data modelling, DAX measures, interactive dashboard design
-- **Microsoft Excel** — Initial data exploration and validation
 
 ---
 
